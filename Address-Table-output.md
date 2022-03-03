@@ -1,4 +1,4 @@
-![Alt text](https://github.com/BenNojokes/Images/blob/main/AddressTable.png) https://github.com/BenNojokes/Images/blob/main/AddressTable.png
+![Alt text](https://github.com/BenNojokes/Images/blob/main/AddressTable.png)
 
 Arbitrum Demo: Using the Address Table
 
