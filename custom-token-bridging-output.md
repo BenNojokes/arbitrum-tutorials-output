@@ -1,5 +1,7 @@
 ![Alt text](https://github.com/BenNojokes/Images/blob/main/CustomTokenBridging.png)
 
+Arbitrum Demo: Setting Up Your Token With The Generic Custom Gateway
+
 Custom token is deployed to L1 at 0x22648119836a20AA034100571197936666Da6f65
 
 Custom token is deployed to L2 at 0x8478B59B60aA86c49f7a1cE0deC0e42232cd2d88
