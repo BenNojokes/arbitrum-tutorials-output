@@ -1,5 +1,7 @@
 ![alt text](https://github.com/BenNojokes/Images/blob/main/demo-greeter.png)
 
+Arbitrum Demo: Cross-chain Greeter
+
 L1 Greeter deployed to `0x97E96Fc75E00447D89A3c8b18fe4f46A1261d8bE`
 
 L2 Greeter deployed to `0xbA6CF5556E831E5501d93220e41b118941a76993`
